@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandan2005
+- 👋 Hi, I’m Mehar chandan
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning Mern stack development
 - 💞️ I’m looking to collaborate on open source projects
